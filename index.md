@@ -8,7 +8,7 @@ title: Summer 2021 DREU Project Site
 
 ## About Me
 
-[Click here to read about me](files/About me.docx)
+[Click here to read about me](files/About_me.docx)
 
 ## About My Mentor
 
