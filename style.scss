@@ -23,6 +23,18 @@ body {
   color: $darkGray;
 }
 
+/*added the lines below in */
+.bg {
+  background-image: url("img_girl.jpg");
+
+  height: 100%;
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+/* added the lines above in */
+
 .container {
   margin: 0 auto;
   max-width: 740px;
