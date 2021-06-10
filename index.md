@@ -8,7 +8,7 @@ title: Summer 2021 DREU Project Site
 
 ## About Me
 
-Hello, I am Priscilla Saarah. I am an international student from Ghana and an undergraduate student(rising junior) at Dillard University in New Orleans, Louisiana. I am majoring in biology with minors in computer science and chemistry. For this summer, I am working with the Parasol lab with Illinois faculty Dr.Nancy Amato and Dr. Marco Aguirre on a computational biology research project under the direction of graduate student Diane Uwacu.
+[Click here to read about me](files/Aboutme.docx)
 
 ## About My Mentor
 
