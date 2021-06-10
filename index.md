@@ -8,7 +8,9 @@ title: Summer 2021 DREU Project Site
 
 ## About Me
 
-[Click here to read about me](files/Aboutme)
+I am Priscilla Saarah, a rising senior at Dillard University with a major in biology and a minor in chemistry and computer science. This summer, I am working with Dr. Nancy Amato and Dr. Marco Aguiree on a computational biology project. (See my project description and my blogs to learn more). 
+People usually get curious about why I decided to learn computer science especially after they know I want to be a neurosurgeon. Well, I was fortunate to be born during the time technology and its devices were becoming popular in Ghana - and yes, I am a Ghanaian. And I was fortunate once more to have a dad who had lived in Canada so was more open to technology and computers compared to others his age back then - the 2000’s - as well as brothers who were open to anything computer. The result? My family became the first to own a personal computer in my neighbourhood which of course was put to good use, mainly by my brothers. I loved to watch but I guess watching for years instilled in me the desire to learn about computers, a little more than just what we see but also how it works. The road to the study of computer science was created right at that moment. 
+There is more to this story and just me as a person but we’ll leave that for whoever gets the chance to meet me or finds me online.
 
 ## About My Mentor
 
