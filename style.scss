@@ -21,19 +21,16 @@ body {
 	background: $white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
-}
-
-/*added the lines below in */
-.bg {
-  background-image: url("/files/proteins.jpeg");
-
+	
+	/*added the lines below in */
+	background-image: url("/files/proteins.jpeg");
   height: 100%;
-
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+	/* added the lines above in */
 }
-/* added the lines above in */
+
 
 .container {
   margin: 0 auto;
