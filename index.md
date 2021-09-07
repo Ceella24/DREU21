@@ -25,7 +25,7 @@ Dr. Aguille is the Teaching Associate Professor of the Computer Science Departme
 I am working on a computational biology research project, the applications of motion planning in bioinformatics.
 My team's focus is on proteins, especially protein and ligand binding. In our case, a protein is seen as a dynamic robot (or flexible entity if that is understandable) and since proteins change conformation when binding with ligands, that change in conformation can be described in terms of motion planning. So we are trying to figure out how the protein goes from its start configuration (conformation before binding) to its final configuration (its form at or after binding). Of course, the protein goes through some series of form changes or conformations before it can bind and that series of changes can is termed its path. The path for different proteins differ and determining these paths for different proteins as well as coming up with new strategies or algorithms that can make this process more optimal is my focus for the summer.
 
-[My Final Report](files/DREU 2021 Final Report.pdf)
+[My Final Report](files/DREU_2021_FinalReport.pdf)
 
 ## My Blog
 
